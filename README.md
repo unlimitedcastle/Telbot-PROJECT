@@ -1,4 +1,4 @@
-# 🤖 Telbot-PROJECT
+#  Telbot-PROJECT
 
 [![Project - Complete](https://img.shields.io/badge/Project-Complete-brightgreen)](https://github.com/unlimitedcastle/Telbot-PROJECT)
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
