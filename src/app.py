@@ -3,7 +3,7 @@ from time import sleep
 
 import app_api
 
-bot = telebot.TeleBot('8753651858:AAE5wgN_t5-noxjPGAhxackInfYbqDyenCg')
+bot = telebot.TeleBot('token')
 
 print('created...............')
 
